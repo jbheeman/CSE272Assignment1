@@ -1,0 +1,4 @@
+# ignore data files
+src/data/ohsumed.88-91
+src/data/qrels.ohsu.88-91
+src/data/query.ohsu.1-63
